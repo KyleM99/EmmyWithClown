@@ -1,0 +1,21 @@
+body {
+    background-color: #9c93c9;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    color: white;
+}
+
+.top-section {
+    padding: 100px 0;
+
+}
+
+.clown-pic {
+    padding: 0;
+    height: 400%;
+    margin-left: 55%;
+}
+
+.clown2 {
+    font-size: 155px;
+}
